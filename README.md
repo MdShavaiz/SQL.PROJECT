@@ -52,5 +52,3 @@ This project serves as a practical demonstration of SQL querying techniques appl
 
 ---
 
-**END OF PROJECT**
-
